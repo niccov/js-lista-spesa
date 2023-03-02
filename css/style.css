@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+.container-lista{
+    width: 260px;
+
+    margin: 30px auto;
+}
+
